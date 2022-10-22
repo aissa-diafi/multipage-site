@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project uses fetch API and data is provided locally within data/db.json file, make sure you install json-server "npm install -g json-server", then just hit a json server with "json-server --watch ./data/db.json". Voila!
+**Note: This project uses fetch API and data is provided locally within data/db.json file, make sure you install json-server "npm install -g json-server", then just hit a json server with "json-server --watch ./data/db.json". Voila!**
 
 ## Available Scripts
 
